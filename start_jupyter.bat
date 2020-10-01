@@ -1,0 +1,3 @@
+cd Jupyter
+
+jupyter notebook
